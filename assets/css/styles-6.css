@@ -83,6 +83,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
+  border-radius: 50%;
   margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .fa {
